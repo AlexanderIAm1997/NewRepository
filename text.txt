@@ -1,3 +1,0 @@
-hello
-Writing on GitHub      
-New text to see in gui
